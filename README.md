@@ -1,16 +1,23 @@
-### Hi there 👋
+![TarjetaPresentacion](https://user-images.githubusercontent.com/108308939/221066864-e7858ab2-67de-495a-a2fe-3a7ba0b7e105.png)
 
-<!--
-**italovisconti/italovisconti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align='center'>
+  Italo Visconti
+</h3>
 
-Here are some ideas to get you started:
+<p align='center'>
+  Computer Engineering Student | Universidad Catolica Andres Bello (UCAB) 📖
+</p>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align='center'>
+  <i>
+    Learning. Every. Single. Day
+  </i>
+</div>
+
+---
+
+<p align='center'>
+  Chek out my projects 👇
+</p>
+
+[Contact Me](mailto:hermanosvisconti@hotmail.com)
