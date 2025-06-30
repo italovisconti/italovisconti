@@ -6,7 +6,7 @@
 </h3>
 
 <p align='center'>
-  Computer Science Student | Universidad Catolica Andres Bello (UCAB) 📖
+  Software Engineer | Universidad Catolica Andres Bello (UCAB) 📖
 </p>  
 
 <div align='center'>
