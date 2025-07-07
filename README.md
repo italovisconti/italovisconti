@@ -6,7 +6,7 @@
 </h3>
 
 <p align='center'>
-  Software Engineer | Universidad Catolica Andres Bello (UCAB) 📖
+  Software Engineer
 </p>  
 
 <div align='center'>
